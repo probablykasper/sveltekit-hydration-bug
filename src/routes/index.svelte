@@ -32,18 +32,3 @@
 </div>
 
 <p>Section 3</p>
-
-<!-- This example requires Tailwind CSS v2.0+ -->
-<div class="bg-white">
-  <div
-    class="mx-auto max-w-7xl py-12 px-4 text-center sm:px-6 lg:px-8 lg:py-24"
-  >
-    <div class="space-y-12">
-      <div class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl">
-        <h2 class="text-3xl font-extrabold tracking-tight sm:text-4xl">
-          This section seems to always load
-        </h2>
-      </div>
-    </div>
-  </div>
-</div>
