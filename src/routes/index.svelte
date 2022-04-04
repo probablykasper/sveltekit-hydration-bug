@@ -7,7 +7,7 @@
 
 <p>Section 1</p>
 
-<div class="pb-8 sm:pb-12 lg:pb-12">
+<div>
   <p>Section 2</p>
   {#if !$user}
     <p>Log in</p>
