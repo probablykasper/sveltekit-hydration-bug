@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
   import { user } from '$lib/supabase'
   import '../app.css'
 </script>

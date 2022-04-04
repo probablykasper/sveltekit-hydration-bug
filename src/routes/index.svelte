@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
   import { user, userInitialized } from '$lib/supabase'
   import Nav from './_Nav.svelte'
 </script>
