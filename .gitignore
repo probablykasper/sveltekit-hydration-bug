@@ -1,0 +1,11 @@
+.DS_Store
+.env
+node_modules
+/build
+/.svelte-kit
+/package
+
+# Supabase
+**/supabase/.branches
+**/supabase/.temp
+**/supabase/.env
